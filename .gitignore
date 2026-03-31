@@ -1,7 +1,4 @@
 node_modules
 dist
-dist-ssr
-*.local
-.vscode/*
-.idea
-.DS_Store
+.env
+.vscode
